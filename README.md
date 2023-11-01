@@ -14,7 +14,8 @@ The following code demonstrates how I used Linux commands to determine the exist
 permissions set for a specific directory in the file system.
 <br/>
 <p align="center">
-  <img src="https://imgur.com/fg8mkBP" height="80%" width="80%" alt="Disk Sanitization Steps"/>" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://imgur.com/fg8mkBP" height="80%" width="80%" alt="checking for file directory"/>" 
+  <br/>
 - <b>PowerShell</b> 
 - <b>Diskpart</b>
 
